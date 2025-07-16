@@ -1,1 +1,1 @@
-# solar-flares
+# solar-flares GOES Solar flares lightcurves.
